@@ -15,7 +15,19 @@ Diode drop, simple, works but voltage is rippling under clocking loading
 JFET_1.5V_Regulator, ideal and works as well, a few more components and hungry 26uA constantly
 
 ### for fun and experiment  
-no good, no bad, just fun and learning
+no good, no bad, just fun and learning.
+the clock movement itself is just about USD1 or less. exterior enclosure/humidometer/temperature/shelf payment/profit are not considered.
+
+### testing rig
+![JFET_1.5V_Regulator_clock_experiment.jpg](JFET_1.5V_Regulator_clock_experiment.jpg)  
+![JFET_1.5V_Regulator_ASSY.JPG](JFET_1.5V_Regulator_ASSY.JPG)  
+![JFET_1.5V_Regulator_schematic.PNG](JFET_1.5V_Regulator_schematic.PNG)  
+
+### LTspice source code, for educational purpose
+[LTspice_JFET_1.5V_Regulator](LTspice_JFET_1.5V_Regulator)  
+
+
+
 
 
 
