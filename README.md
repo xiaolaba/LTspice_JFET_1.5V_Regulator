@@ -1,6 +1,9 @@
 # LTspice_JFET_1.5V_Regulator
 desk clock usually powered by 1.5V AA battery 800mAh, idle 0uA, clock movment 220uA ~ 300uA, try this regulator with Li-ion battery, typical 3.7V~4.2V
 
+the LTspice simulation was done after circuit build and testing, it is perfectly matched to each other,   
+![JFET_1.5V_Regulator.JPG](JFET_1.5V_Regulator.JPG)  
+
 ### typical concerns  
 4.2V battery will damages the clock ?  
 power consumption ?
